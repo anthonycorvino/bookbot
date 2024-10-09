@@ -1,2 +1,2 @@
 # bookbot
-book reader in python
+my first project in python, a book reader
